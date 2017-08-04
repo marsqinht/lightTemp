@@ -1,0 +1,32 @@
+{
+  "name": "lighttemp",
+  "version": "1.0.0",
+  "description": "javascript template",
+  "main": "lightTemp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marsqinht/lightTemp.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "template"
+  ],
+  "author": "Mars",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marsqinht/lightTemp/issues"
+  },
+  "homepage": "https://github.com/marsqinht/lightTemp#readme",
+  "devDependencies": {
+    "eslint": "^4.3.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-node": "^5.1.1",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}
